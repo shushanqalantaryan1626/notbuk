@@ -1,0 +1,1057 @@
+* {
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+  align-items: center;
+  font-size: 20px;
+  background: #fff;
+    position: fixed;
+    top: 0;
+width: 96%;
+z-index: 10000;
+}
+
+.div {
+  display: flex;
+}
+.div a{color: black;text-decoration: none;}
+.p {
+  padding: 8px;
+  
+
+}
+
+.div1:hover {
+  background: #ccc;
+}
+
+.p:hover {
+  background: #ccc;
+}
+
+img {
+  width: 100%
+}
+
+.word {
+  text-align: center;
+  margin: 80px;padding-top: 50px;
+}
+
+.lock {
+  font-size: 25px;
+  margin-top: 45px;
+}
+
+.b {
+  font-size: 18px;
+  margin: 20px;
+}
+
+.nav2 {
+  display: flex;
+}
+
+.fa-desktop {
+  font-size: 51px;
+}
+
+.fa-heart {
+  font-size: 51px;
+}
+
+.fa-diamond {
+  font-size: 51px;
+}
+
+.fa-cog {
+  font-size: 51px;
+}
+
+.c {
+  padding: 10px;
+  text-align: center;
+  font-size: 26px;
+}
+
+.d {
+  color: darkslategrey;
+  text-align: center;
+  margin: 15px;
+  font-size: 25px;
+}
+
+.div0 {
+  margin: 50px 0;
+  padding: 50px;
+  background: #ccc;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.div2 {
+  width: 40%;
+}
+
+.div3 {
+  width: 50%;
+  border-radius: 7px
+}
+
+.e {
+  font-size: 20px;
+}
+
+.k {
+  color: dimgrey;
+  font-size: 21px;
+}
+
+.fa-th {
+  margin-right: 10px;
+}
+
+.i {
+  background: black;
+  color: white;
+  font-size: 15px;
+  padding: 10px;
+  width: 150px;
+  ;
+  margin-top: 30px;
+}
+
+.i:hover {
+  background: darkgrey;
+}
+
+.div11 {
+  margin: 0 10px;
+  padding: 80px;
+}
+
+.t {
+  text-align: center;
+  font-size: 30px;
+}
+
+.wf {
+  padding: 5px;
+  text-align: center;
+  font-size: 19px;
+  color: black;
+}
+
+.s {
+  width: 100%;
+}
+
+.g {
+  width: 100%
+}
+
+.l {
+  width: 100%
+}
+
+.n {
+  width: 100%;
+
+}
+
+.qwe {
+  background: #f1f1f1;
+
+}
+
+.nav4 {
+  padding: 200 0px;
+  display: flex;
+  background: #f1f1f1;
+}
+
+.dd {
+  font-size: 17px;
+  padding: 12px;
+  justify-content: center;
+}
+
+.x {
+  padding: 12px;
+  color: darkgray;
+  font-size: 14px;
+  justify-content: center;
+}
+
+.v {
+  padding: 12px;
+  font-size: 17px;
+  justify-content: center;
+}
+
+.img0 .img {
+  text-align: center;
+  width: 100%;
+}
+
+.pp {
+  justify-content: space-between;
+  text-align: center;
+  background: #f1f1f1;
+  font-size: 25px;
+}
+
+.fa-envelope {
+  margin-right: 10px;
+}
+
+.ss {
+  width: 27%;
+  justify-content: center;
+  background: white;
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 20px;
+}
+
+.pp:hover {
+  background: #ccc;
+}
+
+.mm {
+  margin: 20px;
+}
+
+.div88 {
+  padding: 60px;
+  background: #616161;
+  display: flex;
+  justify-content: space-between;
+}
+
+.div111,
+.div112,
+.div113,
+.div114 {
+  width: 23%;
+  text-align: center;
+  color: white;
+}
+
+.ert {
+  font-size: 25px;
+}
+
+.ll {
+  margin-top: 90px;
+  text-align: center;padding-top: 80px;
+}
+
+.cl {
+  font-size: 30px;
+}
+
+.ck {
+  font-size: 20px;
+}
+
+.nav6 {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.io {
+  width: 23%;
+}
+
+.nav7 {
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.ip {
+  width: 23%
+}
+
+.nav9 {
+  display: flex;
+  margin-top: 20px;
+  background: #f1f1f1;
+}
+
+.vv {
+  margin: 40px;
+  font-size: 10px;
+  width: 50%;
+}
+
+.qw {
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.fa-camera {
+  margin-right: 10px;
+}
+
+.lk {
+  font-size: 25px;
+}
+
+.dd6 {
+  background: #666;
+  width: 90%;
+  color: white;
+}
+
+.tyo {
+  font-size: 25px;
+  font-weight: 200;
+  margin-top: 10px;
+}
+
+.progress {
+  margin-top: 20px;
+  display: flex;
+  width: 250%;
+  text-align: center;
+  font-size: 25px;
+}
+
+.progressp {
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+  width: 250%;
+  font-size: 25px;
+
+}
+
+.tyo .fa-desktop {
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+.progressg {
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+  width: 250%;
+  font-size: 25px;
+}
+
+.vp {
+  margin-top: 30px;
+  text-align: center;
+
+}
+
+.tyo {
+  letter-spacing: 5px;
+}
+
+.ddk {
+  background: #666;
+  width: 75%;
+  color: white;
+}
+
+.ddp {
+  background: #666;
+  width: 85%;
+  text-align: center;
+  color: white;
+}
+
+.rty {
+  background: #aaa;
+  width: 10%;
+}
+
+.rtyy {
+  background: #aaa;
+  width: 15%;
+}
+
+.rtyyy {
+  background: #aaa;
+  width: 25%;
+}
+
+.ty {
+  text-align: center;
+  font-size: 99px;
+  width: 100%
+}
+
+.fa-photo {
+  margin-right: 20px;
+}
+
+.er {
+  margin-top: 20px;
+  background: #616161;
+  padding: 100px 0px;
+}
+
+.we {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+.al {
+  margin-top: 30px;
+}
+
+.w {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+.frog {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.erty {
+  margin-top: 30px;
+  background: black;
+  color: white;
+  padding: 20px 70px;
+  font-size: 30px;
+  text-align: center;
+  border: 1px solid #ccc;
+  width: 65%;
+}
+
+.erty1 {
+  background: #f44336;
+  color: white;
+  padding: 30px 70px;
+  font-size: 30px;
+  text-align: center;
+  width: 65%;
+  border: 1px solid #ccc;
+}
+
+.erty11 {
+  margin-top: 30px;
+  background: black;
+  color: white;
+  padding: 20px 70px;
+  font-size: 30px;
+  text-align: center;
+  width: 65%;
+  border: 1px solid #ccc;
+}
+
+.erg {
+  background: white;
+  color: black;
+  padding: 20px 70px;
+  font-size: 25px;
+  text-align: center;
+  width: 65%;
+  border: 1px solid #ccc;
+}
+
+.rth {
+  background-color: white;
+  text-align: center;
+  font-size: 25px;
+  justify-content: center;
+  padding: 30px 70px;
+  width: 65%;
+  border: 1px solid #ccc;
+}
+
+.rtu {
+  background-color: white;
+  text-align: center;
+  font-size: 25px;
+  justify-content: center;
+  padding: 20px 70px;
+  width: 65%;
+  border: 1px solid #ccc;
+}
+
+.s {
+  background: black;
+  color: white;
+  padding: 10px;
+  justify-content: center;
+  border: 1px solid #ccc;
+}
+
+.s:hover {
+  background: darkgrey;
+}
+
+.erf {
+  background: white;
+  color: black;
+  padding: 30px 70px;
+  font-size: 25px;
+  text-align: center;
+  border: 1px solid #ccc;
+  width: 65%;
+}
+
+.erh {
+  background: white;
+  color: black;
+  padding: 20px 70px;
+  font-size: 25px;
+  text-align: center;
+  border: 1px solid #ccc;
+  width: 65%;
+}
+
+.nav22 {
+  background: #f1f1f1;
+  text-align: center;
+  padding: 60px;
+}
+
+.nav220 {
+  background: #f1f1f1;
+  padding: 50px;
+  font-size: 25px;
+}
+
+.ji {
+  margin-top: 50px;
+  margin: 10px;
+  font-size: 30px;
+}
+
+.jl {
+  font-size: 25px;
+}
+
+.jh {
+  font-size: 20px;
+  margin: 18px;
+}
+
+.inp,
+.inp1,
+.inp2,
+.inp3 {
+  margin-top: 50px;
+  padding: 20px;
+  width: 90%;
+  margin: 18px;
+  font-size: 20px;
+}
+
+.iop {
+  background: black;
+  color: white;
+  font-size: 15px;
+  padding: 16px;
+  width: 150px;
+  text-align: center;
+  margin: 18px;
+}
+
+.iop:hover {
+  background: darkgrey;
+  color: black;
+}
+
+.div27 {
+  background: #f1f1f1;
+  width: 100%;
+}
+
+.div28 {
+  margin-top: 20px;
+  background: black;
+  padding: 40px;
+  
+}
+
+.sdr {
+  background-color: black;
+  text-align: center;
+  font-size: 25px;
+  width: 85%;
+  display: flex;
+  justify-content: center;
+  padding: 0 100px;
+  margin-left: 40px;
+}
+
+.dfg {
+  background: white;
+  color: black;
+}
+
+.div {
+  display: flex;
+}
+
+.dfg:hover {
+  background: darkgrey;
+}
+
+.div29 {
+  background: black;
+}
+
+.df {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+.div52 {
+  background: black;
+  display: flex;
+  font-size: 25px;
+  justify-content: center;
+}
+
+.ujh {
+  background: white;
+}
+
+.fa-instagram {
+  color: white;
+  margin-right: 10px;
+}
+
+.fa-snapchat {
+  color: white;
+  margin-right: 10px;
+}
+
+.fa-pinterest {
+  color: white;
+  margin-right: 10px;
+}
+
+.fa-twitter {
+  color: white;
+  margin-right: 10px;
+}
+
+.fa-linkedin {
+  color: white;
+}
+
+.fa-instagram:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.fa-instagram:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.fa-snapchat:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.fa-pinterest:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.fa-twitter:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.fa-linkedin:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.fa-facebook-official {
+  color: white;
+  margin-right: 10px;
+}
+
+.fa-facebook-official:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.world {
+  background: url("https://www.w3schools.com/w3images/mac.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  background-position: center;
+  padding-top: 800px;
+}
+
+.werq {
+  font-size: 85px;
+  margin: 40px;
+  color: white;
+  position: absolute;
+  top: 40%;
+  left: 0%;
+}
+
+.wer {
+  font-size: 25px;
+  margin: 40px;
+  color: white;
+  position: absolute;
+  top: 66%;
+  left: 0%;
+}
+
+.werr {
+  color: #000;
+  background-color: #fff;
+  padding: 16px 24px;
+  font-size: 25px;
+  margin: 40px;
+  position: absolute;
+  top: 82%;
+  left: 0%;
+}
+
+.lock {
+  margin: 40px;
+}
+
+.lock .fa-facebook-official {
+  margin-top: 126px;
+  font-size: 25px;
+  position: absolute;
+  top: 100%;
+  left: 5%;
+  color: #fff;
+
+}
+
+.lock .fa-instagram {
+  margin-top: 126px;
+  font-size: 25px;
+  position: absolute;
+  top: 100%;
+  left: 8%;
+  color: #fff;
+}
+
+.lock .fa-linkedin {
+  margin-top: 126px;
+  font-size: 25px;
+  position: absolute;
+  top: 100%;
+  left: 11%;
+  color: #fff;
+}
+
+.lock .fa-pinterest {
+  position: absolute;
+  margin-top: 126px;
+  font-size: 25px;
+  top: 100%;
+  left: 14%;
+  color: #fff;
+}
+
+.lock .fa-snapchat {
+  margin-top: 126px;
+  font-size: 25px;
+  position: absolute;
+  top: 100%;
+  left: 20%;
+  color: #fff;
+}
+
+.lock .fa-twitter {
+  margin-top: 126px;
+  font-size: 25px;
+  position: absolute;
+  top: 100%;
+  left: 17%;
+  color: #fff;
+}
+
+.user {
+  display: none;
+}
+
+.sdr {
+  width: 79%;
+}
+.div52{padding-bottom: 20px;}
+.div1 a{color: #000;text-decoration: none;}
+.div3{position: relative;
+  overflow: hidden;}
+  .div3 img{  transition: 0.5s;
+    transform: scale(1.1);}
+.fon{width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;}
+  .div3:hover img {transform: scale(1)}
+.img0 img:hover {transform: scale(1)}
+.img0{position: relative;
+  overflow: hidden;}
+  .img0 img{ transition: 0.5s;
+    transform: scale(1.1);
+  }
+ 
+    .for{width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.6);
+      color: #fff;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      display: flex;
+      justify-content: center;
+      align-items: center;}
+      .io:hover img {transform: scale(1)}
+      .io{position: relative;
+        overflow: hidden;
+        }
+        .io img{ transition: 0.5s;
+          transform: scale(1.1);
+        }
+        .ip:hover img {transform: scale(1)}
+      .ip{position: relative;
+        overflow: hidden;}
+        .ip img{ transition: 0.5s;
+          transform: scale(1.1);
+        }
+        .forr{width: 100%;
+          height: 100%;
+          background: rgba(0, 0, 0, 0.6);
+          color: #fff;
+          position: absolute;
+          top: 0px;
+          left: 0px;
+          display: flex;
+          justify-content: center;
+          align-items: center;}
+@media only screen and (max-width: 600px) {
+  .div {
+    display: none;
+  }
+
+  .div1 {
+    width: 400px;
+  }
+
+  .div1:hover {
+    background: none;
+  }
+
+  .div1 p {
+    margin-left: 10px;
+  }
+
+  .user {
+    font-size: 25px;
+    color: #000;
+    display: block;
+  }
+
+  .nav {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .world {
+    padding-top: 650px;
+  }
+
+  .werq {
+    font-size: 40px;
+    top: 20%;
+    left: 5%;
+  }
+
+  .wer {
+    top: 52%;
+    margin: 0px 40px;
+    left: 5%;
+  }
+
+  .werr {
+    top: 65%;
+    margin: 30px 40px;
+    left: 5%;
+  }
+
+  .lock .fa-facebook-official {
+    margin-top: 150px;
+    margin-left: 50px;
+    position: absolute;
+    top: 80%;
+    left: 6%;
+  }
+
+  .lock .fa-instagram {
+    margin-top: 150px;
+    margin-left: 50px;
+    position: absolute;
+    top: 80%;
+    left: 13%;
+  }
+
+  .lock .fa-snapchat {
+    margin-top: 150px;
+    margin-left: 50px;
+    position: absolute;
+    top: 80%;
+    left: 19%;
+  }
+
+  .lock .fa-pinterest {
+    margin-top: 150px;
+    margin-left: 50px;
+    position: absolute;
+    top: 80%;
+    left: 26%;
+  }
+
+  .lock .fa-twitter {
+    margin-top: 150px;
+    margin-left: 50px;
+    position: absolute;
+    color: white;
+    top: 80%;
+    left: 32%;
+  }
+
+  .nav2 {
+    display: block;
+  }
+
+  .div0 {
+    display: block;
+  }
+
+  .div3 {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .nav4 {
+    display: block;
+  }
+
+  .div88 {
+    display: block;
+  }
+
+  .ss {
+    width: 90%;
+    margin-top: 20px;
+  }
+
+  .div111,
+  .div112,
+  .div113,
+  .div114 {
+    width: 100%;
+    margin-top: 23px;
+    font-size: 25px;
+  }
+
+  .nav6,
+  .nav7 {
+    display: block;
+  }
+
+  .io {
+    width: 90%;
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-top: 0px;
+  }
+
+  .ip {
+    width: 90%;
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-top: 0px;
+  }
+
+  .nav9 {
+    display: block;
+  }
+
+  .progress,
+  .progressp,
+  .progressg {
+    width: 100%;
+  }
+
+  .vp {
+    margin: 20px;
+    text-align: start;
+  }
+
+  .vv {
+    width: 100%;
+    margin: 20px 20px;
+  }
+
+  .lk {
+    padding-top: 40px;
+    margin-top: 35px;
+  }
+
+  .qw {
+    margin-top: 35px;
+    margin-right: 25px;
+    font-size: 19px;
+  }
+
+  .frog {
+    display: block;
+  }
+
+  .jh {
+    margin-top: 15px;
+  }
+
+  .inp,
+  .inp1,
+  .inp2,
+  .inp3 {
+    padding: 10px;
+    margin-top: 20px;
+    width: 90%;
+  }
+
+  .sdr {
+    width: 49%;
+  }
+  .div52{padding-bottom: 20px;}
+  .frog{width: 80%;margin: 40px;}
+  .erty1{margin-top: 30px;}
+  .div2{width: 100%;}
+  .k{margin-top: 15px;}
+}
