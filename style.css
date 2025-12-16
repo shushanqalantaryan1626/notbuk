@@ -9,19 +9,24 @@
   align-items: center;
   font-size: 20px;
   background: #fff;
-    position: fixed;
-    top: 0;
-width: 96%;
-z-index: 10000;
+  position: fixed;
+  top: 0;
+  width: 96%;
+  z-index: 10000;
 }
 
 .div {
   display: flex;
 }
-.div a{color: black;text-decoration: none;}
+
+.div a {
+  color: black;
+  text-decoration: none;
+}
+
 .p {
   padding: 8px;
-  
+
 
 }
 
@@ -39,7 +44,8 @@ img {
 
 .word {
   text-align: center;
-  margin: 80px;padding-top: 50px;
+  margin: 80px;
+  padding-top: 50px;
 }
 
 .lock {
@@ -166,7 +172,7 @@ img {
 
 .qwe {
   background: #f1f1f1;
-
+  height: 750px;
 }
 
 .nav4 {
@@ -249,7 +255,8 @@ img {
 
 .ll {
   margin-top: 90px;
-  text-align: center;padding-top: 80px;
+  text-align: center;
+  padding-top: 80px;
 }
 
 .cl {
@@ -282,7 +289,8 @@ img {
 
 .nav9 {
   display: flex;
-  margin-top: 20px;
+  margin-top: 50px;
+  margin-bottom: 30px;
   background: #f1f1f1;
 }
 
@@ -290,6 +298,7 @@ img {
   margin: 40px;
   font-size: 10px;
   width: 50%;
+  padding-top: 40px;
 }
 
 .qw {
@@ -345,6 +354,7 @@ img {
   text-align: center;
   width: 250%;
   font-size: 25px;
+  margin-bottom: 30px;
 }
 
 .vp {
@@ -483,7 +493,7 @@ img {
   justify-content: center;
   padding: 20px 70px;
   width: 65%;
-  border: 1px solid #ccc;
+  border: 1px solid #ccc;  
 }
 
 .s {
@@ -580,7 +590,7 @@ img {
   margin-top: 20px;
   background: black;
   padding: 40px;
-  
+
 }
 
 .sdr {
@@ -609,6 +619,8 @@ img {
 
 .div29 {
   background: black;
+  height: 50px;
+
 }
 
 .df {
@@ -622,6 +634,7 @@ img {
   display: flex;
   font-size: 25px;
   justify-content: center;
+  
 }
 
 .ujh {
@@ -631,65 +644,30 @@ img {
 .fa-instagram {
   color: white;
   margin-right: 10px;
+  margin-bottom: 20px;
 }
 
 .fa-snapchat {
   color: white;
   margin-right: 10px;
+  margin-bottom: 20px;
 }
 
 .fa-pinterest {
   color: white;
   margin-right: 10px;
+  margin-bottom: 20px;
 }
 
 .fa-twitter {
   color: white;
   margin-right: 10px;
+  margin-bottom: 20px;
 }
 
 .fa-linkedin {
   color: white;
-}
-
-.fa-instagram:hover {
-  background-color: #fff;
-  color: #000;
-}
-
-.fa-instagram:hover {
-  background-color: #fff;
-  color: #000;
-}
-
-.fa-snapchat:hover {
-  background-color: #fff;
-  color: #000;
-}
-
-.fa-pinterest:hover {
-  background-color: #fff;
-  color: #000;
-}
-
-.fa-twitter:hover {
-  background-color: #fff;
-  color: #000;
-}
-
-.fa-linkedin:hover {
-  background-color: #fff;
-  color: #000;
-}
-
-.fa-facebook-official {
-  color: white;
-  margin-right: 10px;
-}
-
-.fa-facebook-official:hover {
-  background-color: #fff;
-  color: #000;
+  margin-bottom: 20px;
 }
 
 .world {
@@ -698,7 +676,7 @@ img {
   background-size: cover;
   align-items: center;
   background-position: center;
-  padding-top: 800px;
+  padding-top: 820px;
 }
 
 .werq {
@@ -731,17 +709,16 @@ img {
 }
 
 .lock {
-  margin: 40px;
+  margin: 20px 80px;
 }
 
-.lock .fa-facebook-official {
+.fa-facebook-official {
   margin-top: 126px;
   font-size: 25px;
   position: absolute;
   top: 100%;
   left: 5%;
-  color: #fff;
-
+ color: #fff;
 }
 
 .lock .fa-instagram {
@@ -796,13 +773,28 @@ img {
 .sdr {
   width: 79%;
 }
-.div52{padding-bottom: 20px;}
-.div1 a{color: #000;text-decoration: none;}
-.div3{position: relative;
-  overflow: hidden;}
-  .div3 img{  transition: 0.5s;
-    transform: scale(1.1);}
-.fon{width: 100%;
+
+.div52 {
+  padding-bottom: 20px;
+}
+
+.div1 a {
+  color: #000;
+  text-decoration: none;
+}
+
+.div3 {
+  position: relative;
+  overflow: hidden;
+}
+
+.div3 img {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+.fon {
+  width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.6);
   color: #fff;
@@ -811,49 +803,178 @@ img {
   left: 0px;
   display: flex;
   justify-content: center;
-  align-items: center;}
-  .div3:hover img {transform: scale(1)}
-.img0 img:hover {transform: scale(1)}
-.img0{position: relative;
-  overflow: hidden;}
-  .img0 img{ transition: 0.5s;
-    transform: scale(1.1);
-  }
- 
-    .for{width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.6);
-      color: #fff;
-      position: absolute;
-      top: 0px;
-      left: 0px;
-      display: flex;
-      justify-content: center;
-      align-items: center;}
-      .io:hover img {transform: scale(1)}
-      .io{position: relative;
-        overflow: hidden;
-        }
-        .io img{ transition: 0.5s;
-          transform: scale(1.1);
-        }
-        .ip:hover img {transform: scale(1)}
-      .ip{position: relative;
-        overflow: hidden;}
-        .ip img{ transition: 0.5s;
-          transform: scale(1.1);
-        }
-        .forr{width: 100%;
-          height: 100%;
-          background: rgba(0, 0, 0, 0.6);
-          color: #fff;
-          position: absolute;
-          top: 0px;
-          left: 0px;
-          display: flex;
-          justify-content: center;
-          align-items: center;}
+  align-items: center;
+}
+
+.div3:hover img {
+  transform: scale(1)
+}
+
+.img0 img:hover {
+  transform: scale(1)
+}
+
+.img0 {
+  position: relative;
+  overflow: hidden;
+}
+
+.img0 img {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+.for {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.io:hover img {
+  transform: scale(1)
+}
+
+.io {
+  position: relative;
+  overflow: hidden;
+}
+
+.io img {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+.ip:hover img {
+  transform: scale(1)
+}
+
+.ip {
+  position: relative;
+  overflow: hidden;
+}
+
+.ip img {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+.forr {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @media only screen and (max-width: 600px) {
+
+  .nav {
+    align-items: center;
+    padding: 15px;
+    position: relative;
+    top: 0;
+    z-index: 0;
+  }
+
+  .program1,
+  .program2 {
+    margin: 28px;
+  }
+
+  .user .fa-bars {
+    margin-right: 25px;
+  }
+
+  .div1 p {
+    font-size: 22px;
+  }
+
+  .sn {
+    width: 200px;
+    margin-right: 50px;
+  }
+
+  .world {
+    padding-top: 400px;
+    background-position: center;
+    align-items: center;
+    font-size: 39px;
+  }
+
+  .wer {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .werr {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .lock {
+    text-align: center;
+  }
+
+  .fa {
+    margin: 5px;
+  }
+
+  .div0 {
+    padding: 20px;
+  }
+
+  .div2 p,
+  .div2 .i {}
+
+  .div3 img {
+    width: 100%;
+    border-radius: 5px;
+  }
+
+  .nav2 div {
+    margin-bottom: 25px;
+  }
+
+  .ss {
+    width: 100%;
+    margin: 15px 0;
+  }
+
+  .div88 {
+    padding: 30px;
+  }
+
+  .div111,
+  .div112,
+  .div113,
+  .div114 {
+    margin-bottom: 25px;
+  }
+
+  .inp,
+  .inp1,
+  .inp2,
+  .inp3 {
+    width: 95%;
+    font-size: 18px;
+  }
+
+  .iop {
+    width: 100%;
+  }
+
   .div {
     display: none;
   }
@@ -879,6 +1000,7 @@ img {
   .nav {
     display: flex;
     justify-content: space-between;
+    width: 100%;
   }
 
   .world {
@@ -1046,12 +1168,39 @@ img {
     width: 90%;
   }
 
-  .sdr {
-    width: 49%;
+  .ddd {
+    background-color: black;
+    padding: 20px 0px;
+    margin-top: -24px;
   }
-  .div52{padding-bottom: 20px;}
-  .frog{width: 80%;margin: 40px;}
-  .erty1{margin-top: 30px;}
-  .div2{width: 100%;}
-  .k{margin-top: 15px;}
+
+  .sdr {
+    width: 35%;
+    margin-right: 23px;
+  }
+
+  .div52 {
+    padding-bottom: 20px;
+  }
+
+  .frog {
+    width: 80%;
+    margin: 40px;
+  }
+
+  .erty1 {
+    margin-top: 30px;
+  }
+
+  .div2 {
+    width: 100%;
+  }
+
+  .k {
+    margin-top: 15px;
+  }
+
+  .programu {
+    margin: 30px;
+  }
 }
