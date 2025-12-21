@@ -493,7 +493,7 @@ img {
   justify-content: center;
   padding: 20px 70px;
   width: 65%;
-  border: 1px solid #ccc;  
+  border: 1px solid #ccc;
 }
 
 .s {
@@ -634,7 +634,7 @@ img {
   display: flex;
   font-size: 25px;
   justify-content: center;
-  
+
 }
 
 .ujh {
@@ -709,16 +709,31 @@ img {
 }
 
 .lock {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 40px;
+}
+
+.lock i {
+  font-size: 25px;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+
+.lock {
   margin: 20px 80px;
 }
 
-.fa-facebook-official {
+.lock .fa-facebook-official {
   margin-top: 126px;
   font-size: 25px;
   position: absolute;
   top: 100%;
   left: 5%;
- color: #fff;
+  color: #fff;
 }
 
 .lock .fa-instagram {
@@ -881,11 +896,13 @@ img {
 @media only screen and (max-width: 600px) {
 
   .nav {
+    display: flex;
+    justify-content: space-between;
     align-items: center;
-    padding: 15px;
-    position: relative;
+    z-index: 100000000;
+    position: sticky;
+    background: #fff;
     top: 0;
-    z-index: 0;
   }
 
   .program1,
@@ -935,9 +952,6 @@ img {
     padding: 20px;
   }
 
-  .div2 p,
-  .div2 .i {}
-
   .div3 img {
     width: 100%;
     border-radius: 5px;
@@ -948,7 +962,7 @@ img {
   }
 
   .ss {
-    width: 100%;
+    width: 90%;
     margin: 15px 0;
   }
 
@@ -1030,7 +1044,7 @@ img {
     margin-left: 50px;
     position: absolute;
     top: 80%;
-    left: 6%;
+    left: 7%;
   }
 
   .lock .fa-instagram {
@@ -1087,11 +1101,6 @@ img {
     display: block;
   }
 
-  .ss {
-    width: 90%;
-    margin-top: 20px;
-  }
-
   .div111,
   .div112,
   .div113,
@@ -1122,6 +1131,7 @@ img {
 
   .nav9 {
     display: block;
+    height: 600px;
   }
 
   .progress,
@@ -1181,6 +1191,7 @@ img {
 
   .div52 {
     padding-bottom: 20px;
+    color: white;
   }
 
   .frog {
@@ -1194,13 +1205,37 @@ img {
 
   .div2 {
     width: 100%;
+
   }
 
   .k {
     margin-top: 15px;
   }
 
+  .qwe {
+    height: 2500px;
+  }
+
+  .ss {
+    height: 500px;
+    font-size: 13px;
+  }
+
+  .ss img {
+    width: 100%;
+    height: 80%;
+  }
+
   .programu {
     margin: 30px;
   }
+
+  .fgh .fa-facebook-official {
+    display: none;
+  }
+
+  .div88 {
+    padding-top: 100px;
+  }
+  .for img{width: 20px;height: 30px;}
 }
