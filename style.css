@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  
 }
 
 .nav {
@@ -894,12 +895,12 @@ img {
 }
 
 @media only screen and (max-width: 600px) {
-
+  body{overflow-x: hidden;}
   .nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    z-index: 100000000;
+    z-index: 10000000;
     position: sticky;
     background: #fff;
     top: 0;
