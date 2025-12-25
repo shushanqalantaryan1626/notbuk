@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  
+
 }
 
 .nav {
@@ -608,6 +608,12 @@ img {
 .dfg {
   background: white;
   color: black;
+  padding-right: 20px;
+  font-size: 20px;
+  padding: 10px;
+  margin-left: 10px;
+  text-align: center;
+  align-items: center;
 }
 
 .div {
@@ -895,7 +901,10 @@ img {
 }
 
 @media only screen and (max-width: 600px) {
-  body{overflow-x: hidden;}
+  body {
+    overflow-x: hidden;
+  }
+
   .nav {
     display: flex;
     justify-content: space-between;
@@ -1083,10 +1092,16 @@ img {
 
   .nav2 {
     display: block;
+
+  }
+
+  .pp {
+    margin-top: 30px;
   }
 
   .div0 {
     display: block;
+    padding-top: 60px;
   }
 
   .div3 {
@@ -1100,6 +1115,7 @@ img {
 
   .div88 {
     display: block;
+    height: 400px;
   }
 
   .div111,
@@ -1107,7 +1123,7 @@ img {
   .div113,
   .div114 {
     width: 100%;
-    margin-top: 23px;
+    padding: 10px 0px;
     font-size: 25px;
   }
 
@@ -1139,6 +1155,8 @@ img {
   .progressp,
   .progressg {
     width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
   }
 
   .vp {
@@ -1152,11 +1170,16 @@ img {
   }
 
   .lk {
-    padding-top: 40px;
-    margin-top: 35px;
+    padding-top: 30px;
   }
 
   .qw {
+    margin-top: 35px;
+    margin-right: 25px;
+    font-size: 19px;
+  }
+
+  .qww {
     margin-top: 35px;
     margin-right: 25px;
     font-size: 19px;
@@ -1168,6 +1191,11 @@ img {
 
   .jh {
     margin-top: 15px;
+  }
+
+  .tyo {
+    margin-top: 10px;
+    margin-bottom: 20px;
   }
 
   .inp,
@@ -1231,6 +1259,14 @@ img {
     margin: 30px;
   }
 
+  .w {
+    margin-bottom: 20px;
+  }
+
+  .jl {
+    margin-top: 10px;
+  }
+
   .fgh .fa-facebook-official {
     display: none;
   }
@@ -1238,5 +1274,15 @@ img {
   .div88 {
     padding-top: 100px;
   }
-  .for img{width: 20px;height: 30px;}
+
+  .for img {
+    width: 20px;
+    height: 30px;
+  }
+
+  .dfg {
+    margin-right: 16px;
+  }
+
+   .div27 img{height: 400px;}
 }
