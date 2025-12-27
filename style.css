@@ -251,6 +251,7 @@ img {
   text-align: center;
   color: white;
 }
+
 .tyo {
   margin-top: 10px;
   margin-bottom: 20px;
@@ -632,7 +633,7 @@ img {
   padding-right: 20px;
   font-size: 20px;
   padding: 10px;
-  margin-left: 10px;
+  margin-left: -35px;
   text-align: center;
   align-items: center;
 }
@@ -773,7 +774,7 @@ img {
   color: #fff;
 }
 
-.lock .fa-linkedin {
+.lock .fa-snapchat {
   margin-top: 126px;
   font-size: 25px;
   position: absolute;
@@ -791,15 +792,6 @@ img {
   color: #fff;
 }
 
-.lock .fa-snapchat {
-  margin-top: 126px;
-  font-size: 25px;
-  position: absolute;
-  top: 100%;
-  left: 20%;
-  color: #fff;
-}
-
 .lock .fa-twitter {
   margin-top: 126px;
   font-size: 25px;
@@ -808,6 +800,20 @@ img {
   left: 17%;
   color: #fff;
 }
+
+.lock .fa-linkedin {
+  margin-top: 126px;
+  font-size: 25px;
+  position: absolute;
+  top: 100%;
+  left: 20%;
+  color: #fff;
+}
+
+
+
+
+
 
 .user {
   display: none;
@@ -921,6 +927,16 @@ img {
   align-items: center;
 }
 
+.fgh .fa-facebook-official {
+  margin-top: 2px;
+  font-size: 25px;
+  position: relative;
+  top: 1%;
+  right: 76%;
+  color: #ffffff;
+}
+
+
 @media only screen and (max-width: 600px) {
   body {
     overflow-x: hidden;
@@ -930,11 +946,13 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    z-index: 10000000;
+    z-index: 1000000;
     position: sticky;
     background: #fff;
     top: 0;
   }
+
+ 
 
   .program1,
   .program2 {
@@ -942,7 +960,16 @@ img {
   }
 
   .user .fa-bars {
-    margin-right: 25px;
+    margin-right: 40px;
+  }
+
+  .fgh .fa-linkedin {
+    margin-top: 2px;
+    font-size: 25px;
+    position: relative;
+    top: 1%;
+    left: 206%;
+    color: #ffffff;
   }
 
   .div1 p {
@@ -1060,8 +1087,9 @@ img {
 
   .wer {
     top: 52%;
-    margin: 0px 40px;
-    left: 5%;
+    margin: 0px 50px;
+    left: 2%;
+    right: 8%;
   }
 
   .werr {
@@ -1070,45 +1098,60 @@ img {
     left: 5%;
   }
 
+  .lock {
+     margin-left: -200px;
+    font-size: 25px;
+    margin: 40px;
+  }
+
   .lock .fa-facebook-official {
     margin-top: 150px;
-    margin-left: 50px;
+    margin-left: 20px;
     position: absolute;
     top: 80%;
-    left: 7%;
+    left: 10%;
   }
 
   .lock .fa-instagram {
     margin-top: 150px;
-    margin-left: 50px;
+    margin-left: 25px;
     position: absolute;
     top: 80%;
-    left: 13%;
+    left: 17%;
   }
 
   .lock .fa-snapchat {
     margin-top: 150px;
-    margin-left: 50px;
+    margin-left: 30px;
     position: absolute;
     top: 80%;
-    left: 19%;
+    left: 24%;
   }
 
   .lock .fa-pinterest {
     margin-top: 150px;
-    margin-left: 50px;
+    margin-left: 35px;
     position: absolute;
     top: 80%;
-    left: 26%;
+    left: 30%;
   }
 
   .lock .fa-twitter {
     margin-top: 150px;
-    margin-left: 50px;
+    margin-left: 40px;
     position: absolute;
     color: white;
     top: 80%;
-    left: 32%;
+    left: 36%;
+  }
+
+  .lock .fa-linkedin {
+    margin-top: 126px;
+    font-size: 25px;
+    position: absolute;
+    top: 83.3%;
+    left: 50%;
+    color: white;
   }
 
   .nav2 {
@@ -1269,7 +1312,10 @@ img {
   .ss {
     height: 500px;
     font-size: 13px;
+    right: 40%;
+   
   }
+  .rtu{ left: -70%;}
 
   .ss img {
     width: 100%;
@@ -1288,8 +1334,33 @@ img {
     margin-top: 10px;
   }
 
+  .dfg {
+    background: white;
+    color: black;
+    padding-right: 10px;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 12px;
+    text-align: center;
+    align-items: center;
+  }
+
   .fgh .fa-facebook-official {
-    display: none;
+    margin-top: 2px;
+    font-size: 25px;
+    position: relative;
+    top: 10%;
+    right: 20%;
+    color: #ffffff;
+  }
+
+  .fgh .fa-linkedin {
+    margin-top: 2px;
+    font-size: 25px;
+    position: relative;
+    top: 5%;
+    left: -5%;
+    color: #ffffff;
   }
 
   .div88 {
